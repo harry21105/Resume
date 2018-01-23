@@ -322,6 +322,12 @@ ul.list-check li::before {
         height: 560px !important;
     }
 }
+@media (max-width : 480px) {
+    .tt-fullHeight{
+        height: 300px !important;
+		background: url();
+    }
+}
 
 
 #home {
